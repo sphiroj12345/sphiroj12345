@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sphiroj12345
 - 👀 I’m interested in ... Cloud Computing and AI ML and blockchain
-- 🌱 I’m currently learning ... Kubernateses and Tanzu
+- 🌱 I’m currently exploring ... Kubernateses and Tanzu
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... DM me
 
